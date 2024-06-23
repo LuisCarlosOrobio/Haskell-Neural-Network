@@ -49,8 +49,8 @@ This repository contains a simple implementation of a feedforward neural network
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/your-username/haskell-neural-network.git
-    cd haskell-neural-network
+    git clone https://github.com/LuisCarlosOrobio/Haskell-Neural-Network.git
+    cd Haskell-Neural-Network
     ```
 
 2. **Compile the Haskell program**:
