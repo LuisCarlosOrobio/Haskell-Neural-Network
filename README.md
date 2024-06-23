@@ -44,3 +44,5 @@ This repository contains a simple implementation of a feedforward neural network
     ```sh
     cabal update
     cabal install random
+
+
