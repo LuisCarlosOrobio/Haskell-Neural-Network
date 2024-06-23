@@ -45,4 +45,20 @@ This repository contains a simple implementation of a feedforward neural network
     cabal update
     cabal install random
 
+## Running the Program
 
+1. **Clone the repository**:
+    ```sh
+    git clone https://github.com/your-username/haskell-neural-network.git
+    cd haskell-neural-network
+    ```
+
+2. **Compile the Haskell program**:
+    ```sh
+    ghc --make MLP.hs -o MLP
+    ```
+
+3. **Run the compiled program**:
+    ```sh
+    ./MLP
+    ```
